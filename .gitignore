@@ -161,3 +161,4 @@ cython_debug/
 
 CUB_200_2011/
 CUB_200_2011.tar
+*.weights.h5
