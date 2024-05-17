@@ -14,7 +14,7 @@ Make sure to have Python 3.11.9 installed. If you are on a Mac, start the venv w
 source python-venv311/bin/activate
 ```
 
-If you don't have a mac or the venv doesen't work you can make one with
+If you don't have a mac or the venv doesn't work you can make one with
 
 ```bash
 python3.11 -m venv python-venv311
