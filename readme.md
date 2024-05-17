@@ -24,6 +24,7 @@ Then install the `requirements.txt`
 
 ```bash
 pip install -r requirements.txt
+pip install tensorflow
 ```
 Download the data from [CUB_200_2011 Dataset](https://www.vision.caltech.edu/datasets/cub_200_2011/) and put it in the main directory.
 
